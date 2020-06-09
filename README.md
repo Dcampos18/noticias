@@ -1,3 +1,13 @@
+
+# Importante
+Antes de empezar a desarrollar este proyecto es necesario que cuentes con un `api-key` de la API para poder hacer el consumo de la información de dicho lugar para ejemplos de este proyecto
+
+### **``Nota``: Cabe mencionar que al ser una versión developer gratuita de la API la licencia te ofrece un límite de 500 Request al día.**
+### [News API](https://newsapi.org/register)
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
